@@ -1,0 +1,569 @@
+[
+  {
+    "full_name": "formidablelabs/react-swipeable",
+    "clone_url": "https://github.com/formidablelabs/react-swipeable.git",
+    "stargazers_count": 1950,
+    "language": "TypeScript",
+    "fork": false
+  },
+  {
+    "full_name": "glennreyes/react-countup",
+    "clone_url": "https://github.com/glennreyes/react-countup.git",
+    "stargazers_count": 1890,
+    "language": "JavaScript",
+    "fork": false
+  },
+  {
+    "full_name": "teamwertarbyte/material-ui-chip-input",
+    "clone_url": "https://github.com/teamwertarbyte/material-ui-chip-input.git",
+    "stargazers_count": 741,
+    "language": "JavaScript",
+    "fork": false
+  },
+  {
+    "full_name": "leoforfree/cz-customizable",
+    "clone_url": "https://github.com/leoforfree/cz-customizable.git",
+    "stargazers_count": 539,
+    "language": "JavaScript",
+    "fork": false
+  },
+  {
+    "full_name": "react-native-datetimepicker/datetimepicker",
+    "clone_url": "https://github.com/react-native-datetimepicker/datetimepicker.git",
+    "stargazers_count": 2340,
+    "language": "JavaScript",
+    "fork": false
+  },
+  {
+    "full_name": "supasate/connected-react-router",
+    "clone_url": "https://github.com/supasate/connected-react-router.git",
+    "stargazers_count": 4731,
+    "language": "JavaScript",
+    "fork": false
+  },
+  {
+    "full_name": "minimalchat/client",
+    "clone_url": "https://github.com/minimalchat/client.git",
+    "stargazers_count": 676,
+    "language": "JavaScript",
+    "fork": false
+  },
+  {
+    "full_name": "cowchimp/headless-devtools",
+    "clone_url": "https://github.com/cowchimp/headless-devtools.git",
+    "stargazers_count": 553,
+    "language": "JavaScript",
+    "fork": false
+  },
+  {
+    "full_name": "craig1123/react-recipes",
+    "clone_url": "https://github.com/craig1123/react-recipes.git",
+    "stargazers_count": 941,
+    "language": "JavaScript",
+    "fork": false
+  },
+  {
+    "full_name": "postlight/serverless-typescript-starter",
+    "clone_url": "https://github.com/postlight/serverless-typescript-starter.git",
+    "stargazers_count": 706,
+    "language": "TypeScript",
+    "fork": false
+  },
+  {
+    "full_name": "kiliman/remix-flat-routes",
+    "clone_url": "https://github.com/kiliman/remix-flat-routes.git",
+    "stargazers_count": 581,
+    "language": "TypeScript",
+    "fork": false
+  },
+  {
+    "full_name": "flow/flow-for-vscode",
+    "clone_url": "https://github.com/flow/flow-for-vscode.git",
+    "stargazers_count": 985,
+    "language": "JavaScript",
+    "fork": false
+  },
+  {
+    "full_name": "react-materialize/react-materialize",
+    "clone_url": "https://github.com/react-materialize/react-materialize.git",
+    "stargazers_count": 1388,
+    "language": "JavaScript",
+    "fork": false
+  },
+  {
+    "full_name": "maxchehab/phelia",
+    "clone_url": "https://github.com/maxchehab/phelia.git",
+    "stargazers_count": 1916,
+    "language": "TypeScript",
+    "fork": false
+  },
+  {
+    "full_name": "nickcolley/jest-axe",
+    "clone_url": "https://github.com/nickcolley/jest-axe.git",
+    "stargazers_count": 1019,
+    "language": "JavaScript",
+    "fork": false
+  },
+  {
+    "full_name": "johnagan/clean-webpack-plugin",
+    "clone_url": "https://github.com/johnagan/clean-webpack-plugin.git",
+    "stargazers_count": 1863,
+    "language": "TypeScript",
+    "fork": false
+  },
+  {
+    "full_name": "adoxography/tailwind-scrollbar",
+    "clone_url": "https://github.com/adoxography/tailwind-scrollbar.git",
+    "stargazers_count": 809,
+    "language": "JavaScript",
+    "fork": false
+  },
+  {
+    "full_name": "ankurk91/vue-loading-overlay",
+    "clone_url": "https://github.com/ankurk91/vue-loading-overlay.git",
+    "stargazers_count": 1188,
+    "language": "JavaScript",
+    "fork": false
+  },
+  {
+    "full_name": "testing-library/jest-dom",
+    "clone_url": "https://github.com/testing-library/jest-dom.git",
+    "stargazers_count": 4285,
+    "language": "JavaScript",
+    "fork": false
+  },
+  {
+    "full_name": "souporserious/react-measure",
+    "clone_url": "https://github.com/souporserious/react-measure.git",
+    "stargazers_count": 1800,
+    "language": "JavaScript",
+    "fork": false
+  },
+  {
+    "full_name": "arackaf/customize-cra",
+    "clone_url": "https://github.com/arackaf/customize-cra.git",
+    "stargazers_count": 2745,
+    "language": "JavaScript",
+    "fork": false
+  },
+  {
+    "full_name": "mcnamee/react-native-starter-kit",
+    "clone_url": "https://github.com/mcnamee/react-native-starter-kit.git",
+    "stargazers_count": 3238,
+    "language": "JavaScript",
+    "fork": false
+  },
+  {
+    "full_name": "immerjs/immer",
+    "clone_url": "https://github.com/immerjs/immer.git",
+    "stargazers_count": 26918,
+    "language": "JavaScript",
+    "fork": false
+  },
+  {
+    "full_name": "steveruizok/perfect-freehand",
+    "clone_url": "https://github.com/steveruizok/perfect-freehand.git",
+    "stargazers_count": 1868,
+    "language": "TypeScript",
+    "fork": false
+  },
+  {
+    "full_name": "webpack-contrib/install-webpack-plugin",
+    "clone_url": "https://github.com/webpack-contrib/install-webpack-plugin.git",
+    "stargazers_count": 1439,
+    "language": "JavaScript",
+    "fork": false
+  },
+  {
+    "full_name": "ssense/vue-carousel",
+    "clone_url": "https://github.com/ssense/vue-carousel.git",
+    "stargazers_count": 1704,
+    "language": "JavaScript",
+    "fork": false
+  },
+  {
+    "full_name": "triggerdotdev/jsonhero-web",
+    "clone_url": "https://github.com/triggerdotdev/jsonhero-web.git",
+    "stargazers_count": 8619,
+    "language": "TypeScript",
+    "fork": false
+  },
+  {
+    "full_name": "react-ga/react-ga",
+    "clone_url": "https://github.com/react-ga/react-ga.git",
+    "stargazers_count": 5027,
+    "language": "JavaScript",
+    "fork": false
+  },
+  {
+    "full_name": "aeksco/react-typescript-web-extension-starter",
+    "clone_url": "https://github.com/aeksco/react-typescript-web-extension-starter.git",
+    "stargazers_count": 889,
+    "language": "JavaScript",
+    "fork": false
+  },
+  {
+    "full_name": "styled-system/styled-system",
+    "clone_url": "https://github.com/styled-system/styled-system.git",
+    "stargazers_count": 7747,
+    "language": "JavaScript",
+    "fork": false
+  },
+  {
+    "full_name": "marp-team/marpit",
+    "clone_url": "https://github.com/marp-team/marpit.git",
+    "stargazers_count": 838,
+    "language": "JavaScript",
+    "fork": false
+  },
+  {
+    "full_name": "mathiasgilson/tailwind-styled-component",
+    "clone_url": "https://github.com/mathiasgilson/tailwind-styled-component.git",
+    "stargazers_count": 768,
+    "language": "TypeScript",
+    "fork": false
+  },
+  {
+    "full_name": "hypeserver/react-date-range",
+    "clone_url": "https://github.com/hypeserver/react-date-range.git",
+    "stargazers_count": 2551,
+    "language": "JavaScript",
+    "fork": false
+  },
+  {
+    "full_name": "necolas/react-native-web",
+    "clone_url": "https://github.com/necolas/react-native-web.git",
+    "stargazers_count": 21337,
+    "language": "JavaScript",
+    "fork": false
+  },
+  {
+    "full_name": "shakacode/sass-resources-loader",
+    "clone_url": "https://github.com/shakacode/sass-resources-loader.git",
+    "stargazers_count": 976,
+    "language": "JavaScript",
+    "fork": false
+  },
+  {
+    "full_name": "jsonhero-io/jsonhero-web",
+    "clone_url": "https://github.com/jsonhero-io/jsonhero-web.git",
+    "stargazers_count": 4264,
+    "language": "TypeScript",
+    "fork": false
+  },
+  {
+    "full_name": "roman01la/html-to-react-components",
+    "clone_url": "https://github.com/roman01la/html-to-react-components.git",
+    "stargazers_count": 2116,
+    "language": "JavaScript",
+    "fork": false
+  },
+  {
+    "full_name": "kirillzyusko/react-native-keyboard-controller",
+    "clone_url": "https://github.com/kirillzyusko/react-native-keyboard-controller.git",
+    "stargazers_count": 1265,
+    "language": "TypeScript",
+    "fork": false
+  },
+  {
+    "full_name": "ankurk91/vue-toast-notification",
+    "clone_url": "https://github.com/ankurk91/vue-toast-notification.git",
+    "stargazers_count": 576,
+    "language": "JavaScript",
+    "fork": false
+  },
+  {
+    "full_name": "react-tags/react-tags",
+    "clone_url": "https://github.com/react-tags/react-tags.git",
+    "stargazers_count": 1458,
+    "language": "TypeScript",
+    "fork": false
+  },
+  {
+    "full_name": "adriantoine/enzyme-to-json",
+    "clone_url": "https://github.com/adriantoine/enzyme-to-json.git",
+    "stargazers_count": 963,
+    "language": "JavaScript",
+    "fork": false
+  },
+  {
+    "full_name": "joshswan/react-native-autolink",
+    "clone_url": "https://github.com/joshswan/react-native-autolink.git",
+    "stargazers_count": 610,
+    "language": "TypeScript",
+    "fork": false
+  },
+  {
+    "full_name": "epicweb-dev/cachified",
+    "clone_url": "https://github.com/epicweb-dev/cachified.git",
+    "stargazers_count": 851,
+    "language": "TypeScript",
+    "fork": false
+  },
+  {
+    "full_name": "neptunian/react-photo-gallery",
+    "clone_url": "https://github.com/neptunian/react-photo-gallery.git",
+    "stargazers_count": 1862,
+    "language": "JavaScript",
+    "fork": false
+  },
+  {
+    "full_name": "jest-community/snapshot-diff",
+    "clone_url": "https://github.com/jest-community/snapshot-diff.git",
+    "stargazers_count": 593,
+    "language": "JavaScript",
+    "fork": false
+  },
+  {
+    "full_name": "release-drafter/release-drafter",
+    "clone_url": "https://github.com/release-drafter/release-drafter.git",
+    "stargazers_count": 3171,
+    "language": "JavaScript",
+    "fork": false
+  },
+  {
+    "full_name": "outline/rich-markdown-editor",
+    "clone_url": "https://github.com/outline/rich-markdown-editor.git",
+    "stargazers_count": 2567,
+    "language": "TypeScript",
+    "fork": false
+  },
+  {
+    "full_name": "urigo/graphql-scalars",
+    "clone_url": "https://github.com/urigo/graphql-scalars.git",
+    "stargazers_count": 1839,
+    "language": "TypeScript",
+    "fork": false
+  },
+  {
+    "full_name": "jsonresume/resume-cli",
+    "clone_url": "https://github.com/jsonresume/resume-cli.git",
+    "stargazers_count": 4490,
+    "language": "JavaScript",
+    "fork": false
+  },
+  {
+    "full_name": "babel/babel-upgrade",
+    "clone_url": "https://github.com/babel/babel-upgrade.git",
+    "stargazers_count": 1311,
+    "language": "JavaScript",
+    "fork": false
+  },
+  {
+    "full_name": "jasonetco/todo",
+    "clone_url": "https://github.com/jasonetco/todo.git",
+    "stargazers_count": 720,
+    "language": "JavaScript",
+    "fork": false
+  },
+  {
+    "full_name": "chrvadala/react-svg-pan-zoom",
+    "clone_url": "https://github.com/chrvadala/react-svg-pan-zoom.git",
+    "stargazers_count": 647,
+    "language": "JavaScript",
+    "fork": false
+  },
+  {
+    "full_name": "typicode/react-fake-props",
+    "clone_url": "https://github.com/typicode/react-fake-props.git",
+    "stargazers_count": 628,
+    "language": "JavaScript",
+    "fork": false
+  },
+  {
+    "full_name": "ferdikoomen/openapi-typescript-codegen",
+    "clone_url": "https://github.com/ferdikoomen/openapi-typescript-codegen.git",
+    "stargazers_count": 2687,
+    "language": "TypeScript",
+    "fork": false
+  },
+  {
+    "full_name": "arqex/react-datetime",
+    "clone_url": "https://github.com/arqex/react-datetime.git",
+    "stargazers_count": 1977,
+    "language": "JavaScript",
+    "fork": false
+  },
+  {
+    "full_name": "paularmstrong/normalizr",
+    "clone_url": "https://github.com/paularmstrong/normalizr.git",
+    "stargazers_count": 20857,
+    "language": "JavaScript",
+    "fork": false
+  },
+  {
+    "full_name": "preactjs/compressed-size-action",
+    "clone_url": "https://github.com/preactjs/compressed-size-action.git",
+    "stargazers_count": 582,
+    "language": "JavaScript",
+    "fork": false
+  },
+  {
+    "full_name": "anthonyjgrove/react-google-login",
+    "clone_url": "https://github.com/anthonyjgrove/react-google-login.git",
+    "stargazers_count": 1800,
+    "language": "JavaScript",
+    "fork": false
+  },
+  {
+    "full_name": "kyechan99/capsule-render",
+    "clone_url": "https://github.com/kyechan99/capsule-render.git",
+    "stargazers_count": 1106,
+    "language": "JavaScript",
+    "fork": false
+  },
+  {
+    "full_name": "frontend-collective/react-sortable-tree",
+    "clone_url": "https://github.com/frontend-collective/react-sortable-tree.git",
+    "stargazers_count": 4739,
+    "language": "JavaScript",
+    "fork": false
+  },
+  {
+    "full_name": "dzhng/zod-gpt",
+    "clone_url": "https://github.com/dzhng/zod-gpt.git",
+    "stargazers_count": 505,
+    "language": "TypeScript",
+    "fork": false
+  },
+  {
+    "full_name": "taion/graphql-type-json",
+    "clone_url": "https://github.com/taion/graphql-type-json.git",
+    "stargazers_count": 973,
+    "language": "JavaScript",
+    "fork": false
+  },
+  {
+    "full_name": "frctl/fractal",
+    "clone_url": "https://github.com/frctl/fractal.git",
+    "stargazers_count": 2081,
+    "language": "JavaScript",
+    "fork": false
+  },
+  {
+    "full_name": "salesforce-ux/theo",
+    "clone_url": "https://github.com/salesforce-ux/theo.git",
+    "stargazers_count": 1669,
+    "language": "JavaScript",
+    "fork": false
+  },
+  {
+    "full_name": "webpack-contrib/html-loader",
+    "clone_url": "https://github.com/webpack-contrib/html-loader.git",
+    "stargazers_count": 1163,
+    "language": "JavaScript",
+    "fork": false
+  },
+  {
+    "full_name": "rebassjs/grid",
+    "clone_url": "https://github.com/rebassjs/grid.git",
+    "stargazers_count": 2084,
+    "language": "JavaScript",
+    "fork": false
+  },
+  {
+    "full_name": "jfairbank/redux-saga-test-plan",
+    "clone_url": "https://github.com/jfairbank/redux-saga-test-plan.git",
+    "stargazers_count": 1224,
+    "language": "JavaScript",
+    "fork": false
+  },
+  {
+    "full_name": "xiphe/cachified",
+    "clone_url": "https://github.com/xiphe/cachified.git",
+    "stargazers_count": 577,
+    "language": "TypeScript",
+    "fork": false
+  },
+  {
+    "full_name": "mateodelnorte/meta",
+    "clone_url": "https://github.com/mateodelnorte/meta.git",
+    "stargazers_count": 1995,
+    "language": "JavaScript",
+    "fork": false
+  },
+  {
+    "full_name": "atomiks/tippyjs-react",
+    "clone_url": "https://github.com/atomiks/tippyjs-react.git",
+    "stargazers_count": 1689,
+    "language": "JavaScript",
+    "fork": false
+  },
+  {
+    "full_name": "apihero-run/jsonhero-web",
+    "clone_url": "https://github.com/apihero-run/jsonhero-web.git",
+    "stargazers_count": 5439,
+    "language": "TypeScript",
+    "fork": false
+  },
+  {
+    "full_name": "zalando-incubator/graphql-jit",
+    "clone_url": "https://github.com/zalando-incubator/graphql-jit.git",
+    "stargazers_count": 1021,
+    "language": "TypeScript",
+    "fork": false
+  },
+  {
+    "full_name": "quantizor/markdown-to-jsx",
+    "clone_url": "https://github.com/quantizor/markdown-to-jsx.git",
+    "stargazers_count": 1807,
+    "language": "TypeScript",
+    "fork": false
+  },
+  {
+    "full_name": "beekai-oss/react-simple-animate",
+    "clone_url": "https://github.com/beekai-oss/react-simple-animate.git",
+    "stargazers_count": 1761,
+    "language": "TypeScript",
+    "fork": false
+  },
+  {
+    "full_name": "no-context/moo",
+    "clone_url": "https://github.com/no-context/moo.git",
+    "stargazers_count": 733,
+    "language": "JavaScript",
+    "fork": false
+  },
+  {
+    "full_name": "microsoft/beachball",
+    "clone_url": "https://github.com/microsoft/beachball.git",
+    "stargazers_count": 686,
+    "language": "TypeScript",
+    "fork": false
+  },
+  {
+    "full_name": "tj-actions/changed-files",
+    "clone_url": "https://github.com/tj-actions/changed-files.git",
+    "stargazers_count": 1531,
+    "language": "TypeScript",
+    "fork": false
+  },
+  {
+    "full_name": "wsmd/react-use-form-state",
+    "clone_url": "https://github.com/wsmd/react-use-form-state.git",
+    "stargazers_count": 940,
+    "language": "JavaScript",
+    "fork": false
+  },
+  {
+    "full_name": "toomuchdesign/re-reselect",
+    "clone_url": "https://github.com/toomuchdesign/re-reselect.git",
+    "stargazers_count": 1072,
+    "language": "TypeScript",
+    "fork": false
+  },
+  {
+    "full_name": "flowtype/flow-for-vscode",
+    "clone_url": "https://github.com/flowtype/flow-for-vscode.git",
+    "stargazers_count": 940,
+    "language": "JavaScript",
+    "fork": false
+  },
+  {
+    "full_name": "frontend-collective/react-image-lightbox",
+    "clone_url": "https://github.com/frontend-collective/react-image-lightbox.git",
+    "stargazers_count": 1259,
+    "language": "JavaScript",
+    "fork": false
+  }
+]

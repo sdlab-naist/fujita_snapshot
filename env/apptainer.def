@@ -1,0 +1,45 @@
+# apptainer.def — container for RQ2/RQ3 measurement (Singularity/Apptainer, for servers without Docker)
+#
+# Build (on an HPC login node etc., no root required):
+#   apptainer build node.sif apptainer.def
+#   # for old Singularity:
+#   singularity build node.sif apptainer.def
+#   # on an environment that needs fakeroot:
+#   apptainer build --fakeroot node.sif apptainer.def
+#
+# To build a SIF directly from an existing Node Docker image (no def file needed):
+#   apptainer build node.sif docker://node:20
+#
+# See runner.py for usage:
+#   python runner.py --metric coverage --backend apptainer --image node.sif ...
+
+Bootstrap: docker
+From: node:20-bullseye
+
+%post
+    set -eux
+    apt-get update
+    # minimal tools needed for building native modules and for git clone
+    apt-get install -y --no-install-recommends git python3 build-essential ca-certificates
+    rm -rf /var/lib/apt/lists/*
+
+    # install Stryker and the Jest runner globally (so runs work even if the project lacks them)
+    npm install -g @stryker-mutator/core @stryker-mutator/jest-runner jest || true
+
+    # writable locations inside the container (runner.py passes HOME=/scratch/home)
+    mkdir -p /scratch /work
+    chmod 777 /scratch /work
+
+%environment
+    export NODE_OPTIONS=--max-old-space-size=4096
+    export PATH=/usr/local/bin:$PATH
+
+%labels
+    Purpose snapshot-testing-reproduction
+    RQ RQ2-RQ3
+    Backend apptainer-singularity
+
+%help
+    Measurement container with Node 20 + Jest + Stryker.
+    Invoked from runner.py via `apptainer exec --bind <repo>:/work --bind <scratch>:/scratch`.
+    Intended for HPC environments where Docker is not available.

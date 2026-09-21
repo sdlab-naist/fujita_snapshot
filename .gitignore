@@ -1,0 +1,8 @@
+# build / runtime artifacts
+__pycache__/
+*.pyc
+node.sif
+out/
+code/tools/node_modules/
+*.log
+.DS_Store

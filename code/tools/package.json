@@ -1,0 +1,15 @@
+{
+  "name": "snapshot-repro-tools",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Babel AST analyzer for snapshot-testing reproduction (RQ1)",
+  "bin": {
+    "analyze-tests": "./analyze_tests.js"
+  },
+  "dependencies": {
+    "@babel/generator": "^7.29.7",
+    "@babel/parser": "^7.24.0",
+    "@babel/traverse": "^7.24.0",
+    "@babel/types": "^7.29.7"
+  }
+}
